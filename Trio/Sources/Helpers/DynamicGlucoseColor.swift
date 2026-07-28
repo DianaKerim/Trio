@@ -78,5 +78,5 @@ public extension Color {
     // Colors used when the Static Glucose Color Scheme is selected
     static let staticLow = Color.dynamicRed
     static let staticInRange = Color.dynamicGreen
-    static let staticHigh = Color.dynamicPurple
+    static let staticHigh = Color.dynamicOrange
 }
